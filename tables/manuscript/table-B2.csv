@@ -1,0 +1,10 @@
+Model and mandate,Fee form,Penalty,Validation log loss,Test Brier score 95% interval
+Sol Reference,Hinge,0.01,0.283,"0.184 [0.001, 0.468]"
+Sol Cost focus,Linear,0.01,0.119,"0.066 [<0.001, 0.191]"
+Sol Funds protection,Hinge,0.01,0.195,"0.015 [<0.001, 0.045]"
+Qwen Reference,Hinge,0.10,0.432,"0.034 [0.004, 0.083]"
+Qwen Cost focus,Hinge,0.01,0.449,"0.220 [0.077, 0.404]"
+Qwen Funds protection,Hinge,0.01,0.215,"0.068 [<0.001, 0.169]"
+Claude Reference,Hinge,0.10,0.568,"0.034 [0.006, 0.078]"
+Claude Cost focus,Linear,0.10,0.395,"0.140 [0.008, 0.358]"
+Claude Funds protection,Hinge,0.10,0.416,"0.079 [<0.001, 0.195]"

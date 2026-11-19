@@ -1,0 +1,8 @@
+Predictor,Coding,Reference or interpretation
+Fee,Fee in dollars divided by 0.10,Continuous
+Reserve loss,Separate indicators for probabilities 0.001 and 0.0001,Probability 0.01 (1%)
+Principal recovery,Separate indicators for $0.50 and $1.00 returned,No principal recovery
+Control over funds,Indicator for operator-held keys,Provider-held keys
+Identity disclosure,Separate indicators for persistent and transaction pseudonyms,Verified legal identity
+Fee hinge (when used),"max(fee − 0.020, 0) / 0.10",Zero at fees ≤$0.020
+Display position,One for display A; zero for display B,Display B

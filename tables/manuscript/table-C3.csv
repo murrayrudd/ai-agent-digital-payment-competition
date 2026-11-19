@@ -1,0 +1,10 @@
+Model and mandate,Point (cents),95% censored interval (cents),Within,Below,Above,Excluded
+Sol Reference,15.58,"[10.73, 18.51]",1000,0,0,0
+Sol Cost focus,1.35,"[≤0.10, 3.85]",871,129,0,0
+Sol Funds protection,<0.10,"[≤0.10, 0.80]",101,887,0,12
+Qwen Reference,1.17,"[≤0.10, 4.58]",779,221,0,0
+Qwen Cost focus,1.12,"[≤0.10, 4.51]",780,220,0,0
+Qwen Funds protection,<0.10,"[≤0.10, 0.82]",94,905,0,1
+Claude Reference,10.05,"[0.90, 23.24]",971,9,20,0
+Claude Cost focus,3.14,"[≤0.10, 9.72]",933,67,0,0
+Claude Funds protection,<0.10,"[≤0.10, 1.01]",69,931,0,0

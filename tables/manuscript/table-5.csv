@@ -1,0 +1,10 @@
+Model,Mandate,Valid calls,Order changes,Repeat matches,Declines
+Sol,Reference,178/178,4/64,16/16,0
+Sol,Cost focus,176/178,0/62,16/16,0
+Sol,Funds protection,177/178,4/63,14/16,0
+Qwen,Reference,178/178,12/64,15/16,0
+Qwen,Cost focus,177/178,8/64,16/16,7
+Qwen,Funds protection,177/178,8/63,14/16,0
+Claude,Reference,178/178,11/64,15/16,0
+Claude,Cost focus,178/178,2/64,16/16,0
+Claude,Funds protection,178/178,6/64,16/16,0

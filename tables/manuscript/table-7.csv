@@ -1,0 +1,4 @@
+Model comparison,Reference,Cost focus,Funds protection
+Sol versus Qwen,32/128 (25.0%),10/126 (7.9%),12/126 (9.5%)
+Sol versus Claude,23/128 (18.0%),4/126 (3.2%),14/127 (11.0%)
+Qwen versus Claude,31/128 (24.2%),14/128 (10.9%),14/127 (11.0%)

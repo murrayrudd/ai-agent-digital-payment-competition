@@ -1,0 +1,10 @@
+Model and mandate,S5. Lower reserve risk 95% interval,S6. Transaction pseudonym 95% interval
+Sol Reference,">99.9 [>99.9, >99.9]",">99.9 [>99.9, >99.9]"
+Sol Cost focus,"99.7 [87.2, >99.9]","83.7 [6.5, 99.0]"
+Sol Funds protection,">99.9 [99.9, >99.9]","99.7 [75.9, >99.9]"
+Qwen Reference,"90.9 [72.0, 97.8]","83.1 [51.9, 95.5]"
+Qwen Cost focus,"85.8 [27.3, 99.3]","52.4 [3.1, 94.4]"
+Qwen Funds protection,">99.9 [>99.9, >99.9]","99.7 [90.4, >99.9]"
+Claude Reference,"98.1 [94.7, 99.7]","94.8 [81.9, 99.2]"
+Claude Cost focus,"96.0 [81.7, 99.8]","74.6 [20.3, 96.5]"
+Claude Funds protection,"98.1 [90.9, 99.7]","93.1 [68.6, 98.3]"

@@ -1,0 +1,10 @@
+Model and mandate,Selected fit [95% interval],Range across specifications
+Sol Reference,"0.00052 [-0.00021, 0.01544]",0.00052 to 8.2
+Sol Cost focus,"-1.7 [-36.2, 29.9]",-4.2 to 6.6
+Sol Funds protection,"87.7 [38.9, 94.8]",23.5 to 91.3
+Qwen Reference,"16.4 [1.9, 35.4]",12.1 to 23.0
+Qwen Cost focus,"-12.8 [-33.4, 8.1]",-12.8 to 6.0
+Qwen Funds protection,"81.3 [53.8, 97.8]",26.8 to 90.5
+Claude Reference,"6.9 [-1.1, 32.0]",3.2 to 15.6
+Claude Cost focus,"0.2 [-17.3, 19.9]",-7.8 to 5.3
+Claude Funds protection,"57.2 [36.2, 73.6]",23.3 to 70.6

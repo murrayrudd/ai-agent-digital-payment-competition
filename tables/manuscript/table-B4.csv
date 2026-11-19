@@ -1,0 +1,19 @@
+Model and mandate,Fee form,Full sample,Finite,Complete,Quasi,Other
+Sol Reference,Linear,Finite,868,123,9,0
+,Hinge,Finite,161,837,0,2
+Sol Cost focus,Linear,Complete,—,—,—,—
+,Hinge,Complete,—,—,—,—
+Sol Funds protection,Linear,Finite,528,188,284,0
+,Hinge,Quasi,—,—,—,—
+Qwen Reference,Linear,Finite,991,0,9,0
+,Hinge,Finite,978,0,22,0
+Qwen Cost focus,Linear,Quasi,—,—,—,—
+,Hinge,Quasi,—,—,—,—
+Qwen Funds protection,Linear,Finite,662,90,248,0
+,Hinge,Finite,192,141,667,0
+Claude Reference,Linear,Finite,999,1,0,0
+,Hinge,Finite,998,1,1,0
+Claude Cost focus,Linear,Finite,594,240,166,0
+,Hinge,Finite,398,424,178,0
+Claude Funds protection,Linear,Finite,895,72,32,1
+,Hinge,Finite,668,186,145,1

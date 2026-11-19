@@ -1,0 +1,8 @@
+Profile,Control,Identity,Recovery,Loss probability
+Comparator,Provider,Legal,$1.00,0.1%
+S1. Basic operator control,Operator,Persistent,$0,0.1%
+S2. Basic provider control,Provider,Persistent,$0,0.1%
+S3. Operator control with recovery,Operator,Persistent,$1.00,0.1%
+S4. Recovery with higher reserve risk,Operator,Persistent,$1.00,1%
+S5. Recovery with lower reserve risk,Operator,Persistent,$1.00,0.01%
+S6. Recovery with transaction pseudonym,Operator,Transaction,$1.00,0.1%

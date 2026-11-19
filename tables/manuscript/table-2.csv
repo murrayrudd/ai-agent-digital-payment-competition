@@ -1,0 +1,6 @@
+Attribute,Levels,Definition
+Total fee,"$0.001, $0.002, $0.010, $0.012, $0.020, $0.051, $0.091, $0.111, $0.250",Nonrefundable charge in addition to the $1 service price.
+Reserve loss probability,"0.01%, 0.1%, 1%",Chance of one permanent $10 loss from the $20 reserve over 24 hours.
+Principal recovery,"$0, $0.50, $1.00",Certain repayment from a separate guarantee after seller non-delivery.
+Control over funds,Provider-held keys; operator-held keys,Authority to release the reserve after the fixed commitment.
+Identity disclosure,Transaction pseudonym; persistent pseudonym; verified legal identity,Link between the purchase and other purchases or a verified legal name.

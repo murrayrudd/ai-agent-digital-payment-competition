@@ -1,0 +1,10 @@
+Model and mandate,Unpenalized fit,Finite negative-fee bootstrap fits,Reportable
+Sol Reference,Finite,868/1000,No
+Sol Cost focus,Complete separation,Not run,No
+Sol Funds protection,Finite,528/1000,No
+Qwen Reference,Finite,991/1000,Yes
+Qwen Cost focus,Quasi-complete separation,Not run,No
+Qwen Funds protection,Finite,662/1000,No
+Claude Reference,Finite,999/1000,Yes
+Claude Cost focus,Finite,594/1000,No
+Claude Funds protection,Finite,895/1000,No

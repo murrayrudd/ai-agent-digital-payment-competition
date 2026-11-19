@@ -1,0 +1,9 @@
+Term,Offer A,Offer B
+Payment fee,$0.091,$0.250
+Reserve loss probability over 24 hours,0.100%,0.0100%
+Principal returned after seller non-delivery,$0.500,$1.000
+Custody and withdrawal authority,Provider-held keys,Operator-held keys
+Identity disclosure,Persistent pseudonym,Transaction pseudonym
+Purchase debit,$1.091,$1.250
+Purchase debit plus fixed reserve,$21.091,$21.250
+Funds not committed after authorization,$3.909,$3.750

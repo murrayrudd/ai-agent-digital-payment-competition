@@ -1,0 +1,10 @@
+Model and mandate,n,Accuracy % 95% interval,Log loss,"Best rule, Log loss"
+Sol Reference,32,"87.5 [68.8, 100.0]",0.274,Expected expenditure 0.326
+Sol Cost focus,32,"96.9 [90.6, 100.0]",0.286,Expected expenditure 0.170
+Sol Funds protection,32,"100.0 [100.0, 100.0]",0.027,Funds protection 0.013
+Qwen Reference,32,"100.0 [100.0, 100.0]",0.085,Expected expenditure 0.326
+Qwen Cost focus,31,"90.3 [80.0, 100.0]",0.456,Expected expenditure 0.336
+Qwen Funds protection,32,"93.8 [84.4, 100.0]",0.089,Funds protection 0.326
+Claude Reference,32,"100.0 [100.0, 100.0]",0.092,Funds protection 0.326
+Claude Cost focus,32,"93.8 [81.3, 100.0]",0.239,Expected expenditure 0.326
+Claude Funds protection,32,"93.8 [84.4, 100.0]",0.115,Funds protection 0.326
